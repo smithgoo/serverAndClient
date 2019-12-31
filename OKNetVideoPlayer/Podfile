@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'OKNetVideoPlayer' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  #use_frameworks!
+
+  # Pods for OKNetVideoPlayer
+#   pod 'KPengUtils',:git=>'https://github.com/smithgoo/KPengUtils.git'
+#   pod 'SVProgressHUD'
+#   pod 'MJExtension'
+#  pod 'HRCocoaTools', '~> 0.2.8'
+#  pod 'ZFPlayer/ijkplayer', '~> 3.0'
+#  pod 'AFNetworking'
+#  pod 'Masonry'
+# pod 'KPengIjkPlayer',:git=>'https://github.com/smithgoo/KPengIjkPlayer.git'
+#pod 'ZFPlayer/ijkplayer', '~> 3.0'
+
+
+end
